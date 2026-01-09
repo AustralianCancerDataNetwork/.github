@@ -1,3 +1,5 @@
+# ACDN
+
 Our projects span data models, imaging pipelines, synthetic data generation, and clinical NLP, with a strong emphasis on reproducibility, interoperability, and governance-aware design. Wherever possible, analysis is performed where data resides, enabling collaboration across institutions and jurisdictions without centralising sensitive data.
 
 ### What lives here? 
